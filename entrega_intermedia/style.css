@@ -3,27 +3,33 @@
 }
 
 body {
-    background: rgb(97, 131, 143);
+    background: rgb(95, 95, 95);
     color: antiquewhite;
 }
 
 header {
-    border: 3px solid black;
-    border-radius: 0.7rem;
+    border: 2px solid black;
+    border-radius: 1rem;
     background: rgb(86, 143, 143);
     padding: 0.1rem 1rem;
     margin-bottom: 1rem;
 }
 
 main {
-    border: 3px solid black;
-    border-radius: 0.7rem;
+    border: 2px solid black;
+    border-radius: 1rem;
     padding: 0rem 1rem;
     background: rgb(117, 117, 117);
 }
 
 main h2 {
     margin: 0.3rem 0.1rem;
+}
+
+footer h3 {
+    color: rgb(225, 250, 86);
+    text-align: end;
+    margin-right: 2rem;
 }
 
 
@@ -35,15 +41,15 @@ main h2 {
     margin: 1em 0.6em;
     padding: 0.4em;
     background-color: rgb(163, 110, 75);
-    /* width: 60%; */
+    width: 85%;
     border-radius: 0.5rem;
     border-left: 1rem solid rgb(250, 132, 152);
-    border-bottom: 0.2rem solid rgb(250, 132, 152);
+    border-bottom: 0.4rem solid rgb(250, 132, 152);
 
 }
 
 .promotion {
-    border-color: rgb(33, 255, 118);
+    border-color: rgb(86, 255, 108);
 }
 
 .product h2 {
@@ -75,4 +81,27 @@ main h2 {
     background-color: green;
     padding: 0.4rem;
     display: inline-block;
+}
+
+.buy_container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 5px;
+}
+
+.buy_container input[type="checkbox"] {
+    width: 24px;
+    height: 24px;
+}
+
+#submit_button {
+    text-transform: uppercase;
+
+    display: block;
+    margin: 1rem 0.2rem 1rem auto;
+
+    width: auto;
+    height: 3rem;
 }
