@@ -1,0 +1,26 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: rgb(95, 95, 95);
+}
+
+body {
+    color: antiquewhite;
+}
+
+
+h2 {
+    text-decoration: underline;
+    text-underline-offset: 5px;
+    text-decoration-color: rgb(242, 255, 129);
+    text-decoration-thickness: 3px;
+    text-indent: 1rem;
+}
+
+.divisor {
+    border-color: rgb(37, 37, 37);
+    border-width: 0.1rem;
+}
+
+.factura {
+    margin-bottom: 2.25rem;
+}
