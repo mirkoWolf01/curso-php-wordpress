@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>index</title>
+    <title>Seleccion de Productos</title>
     <link rel="stylesheet" href="styles/product_selection_style.css">
 </head>
 

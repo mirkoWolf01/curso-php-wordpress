@@ -12,7 +12,7 @@ if (! isset($_POST["bought_products"])) {
 
 <head>
     <meta charset="UTF-8">
-    <title>index</title>
+    <title>Tus Compras</title>
     <link rel="stylesheet" href="styles/carrito_style.css">
 </head>
 
