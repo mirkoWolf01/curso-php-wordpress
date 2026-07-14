@@ -1,0 +1,42 @@
+/*
+Theme Name: Pixel Grove Dark
+Theme URI: https://themegrove.com/products/pixel-grove/
+Author: Themegrove
+Author URI: https://themegrove.com/
+Description: Pixel Grove Dark is a modern WordPress Full Site Editing theme built for businesses, consulting firms, and SEO agencies that want a high-performing online presence. It combines powerful SEO optimization with native Gutenberg and WooCommerce compatibility, allowing you to build fast, flexible, block-based layouts with ease. Designed for scalability and user engagement, Pixel Grove Dark integrates smoothly with Contact Form 7, giving you the tools to showcase services, convert visitors, communicate with clients, and grow your brand. Experience the perfect balance of design, performance, and adaptability with Pixel Grove Dark, your streamlined gateway to digital success. Demo: https://demos.themegrove.com/pixel-grove-dark/
+Template: pixel-grove
+Requires at least: 6.0
+Tested up to: 6.9
+Requires PHP: 7.0
+Version: 1.1
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: pixel-grove-dark
+Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments, translation-ready, wide-blocks, block-styles, blog, portfolio, news
+*/
+
+.wp-block-search__button {
+  border-top-left-radius: 0;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 5px;
+  margin-left: 0;
+}
+
+.wp-block-search__input {
+  border-top-left-radius: 5px !important;
+  border-top-right-radius: 0 !important;
+  border-bottom-left-radius: 5px !important;
+  border-bottom-right-radius: 0 !important;
+}
+
+.wp-block-search__input:focus {
+  outline: none;
+}
+
+@media (max-width: 768px) {
+  .r-pad {
+    padding-top: 60px !important;
+    padding-bottom: 60px !important;
+  }
+}

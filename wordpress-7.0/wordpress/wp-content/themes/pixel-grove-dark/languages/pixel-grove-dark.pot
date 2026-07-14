@@ -1,0 +1,391 @@
+# Copyright (C) 2025 pixel-grove-dark
+# This file is distributed under the same license as the pixel-grove-dark package.
+msgid ""
+msgstr ""
+"Project-Id-Version: pixel-grove-dark\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-12-31 04:41+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../functions.php:33
+msgid "Pixel Grove Dark"
+msgstr ""
+
+#: ../patterns/404.php:14
+msgid "404: Page Not Disco-vered"
+msgstr ""
+
+#: ../patterns/404.php:18
+msgid "Looks like the dance floor is empty here! This page has done a disappearing act. Head back to the main stage by clicking the navigation links, and let's keep the party going!"
+msgstr ""
+
+#: ../patterns/404.php:25
+msgid "Go to home page"
+msgstr ""
+
+#: ../patterns/about.php:16
+msgid "About Us"
+msgstr ""
+
+#: ../patterns/about.php:20
+msgid "Trusted tax advisors for modern business"
+msgstr ""
+
+#: ../patterns/about.php:25
+msgid "Eleifend massa dictum sociosqu nec lacus pulvinar aenean nisi quis lacinia faucibus. Venenatis odio maecenas rutrum velit finibus elit leo. Volutpat condimentum ut tempus habitasse viverra sem risus placerat mattis integer dapibus. Nostra nisl quam enim sociosqu facilisi dolor."
+msgstr ""
+
+#: ../patterns/about.php:31
+msgid "150+"
+msgstr ""
+
+#: ../patterns/about.php:35
+msgid "Total Projects"
+msgstr ""
+
+#: ../patterns/about.php:41
+msgid "120+"
+msgstr ""
+
+#: ../patterns/about.php:45
+msgid "Total Testimonials"
+msgstr ""
+
+#: ../patterns/archive-product.php:55
+msgid " No products were found matching your selection. "
+msgstr ""
+
+#: ../patterns/archive.php:47, ../patterns/blog-left.php:54, ../patterns/blog-right.php:50, ../patterns/post.php:50, ../patterns/search.php:48
+msgid "No posts found"
+msgstr ""
+
+#: ../patterns/banner.php:15
+msgid "Taxes, Handled with Precision and Peace of Mind"
+msgstr ""
+
+#: ../patterns/banner.php:19
+msgid "Massa maecenas litora sit tortor facilisi eget dictum tristique curabitur aliquam facilisis mus tellus platea dapibus commodo magna aliquet integer praesent volutpat letius ac elementum lectus Facilisis hac justo nisi dictum sed velit"
+msgstr ""
+
+#: ../patterns/banner.php:24
+msgid "Explore More"
+msgstr ""
+
+#: ../patterns/blog-left.php:10
+msgid "Blog Left Sidebar"
+msgstr ""
+
+#: ../patterns/blog-right.php:10
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#: ../patterns/cart.php:18
+msgid "You may be interested in…"
+msgstr ""
+
+#: ../patterns/cart.php:76
+msgid "Your cart is currently empty!"
+msgstr ""
+
+#: ../patterns/cart.php:84
+msgid "New in store"
+msgstr ""
+
+#: ../patterns/contact.php:21
+msgid "Quick From - No Long Process"
+msgstr ""
+
+#: ../patterns/contact.php:25
+msgid "add yours from shortcode"
+msgstr ""
+
+#: ../patterns/faq.php:15
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: ../patterns/faq.php:20
+msgid "Still have questions? we've got answers"
+msgstr ""
+
+#: ../patterns/faq.php:38
+msgid "ora nunc nam montes hac tellus semper feugiat integer magna habitasse porta magnis"
+msgstr ""
+
+#: ../patterns/faq.php:39, ../patterns/faq.php:45, ../patterns/faq.php:51, ../patterns/faq.php:57, ../patterns/faq.php:63
+msgid "Imperdiet elementum sem senectus nisi maecenas consectetuer tristique vulputate hendrerit amet netus erat magna faucibus platea rutrum consequat himenaeos eu dignissim viverra phasellus ac semper vitae aliquet nisl eget parturient hac natoque ex class taciti dapibus"
+msgstr ""
+
+#: ../patterns/faq.php:44
+msgid "Orci consectetur tortor a lacinia imperdiet vitae rhoncus amet nunc ligula tempus"
+msgstr ""
+
+#: ../patterns/faq.php:50
+msgid "Natoque convallis facilisis facilisi laoreet conubia est elementum vestibulum semper elit"
+msgstr ""
+
+#: ../patterns/faq.php:56
+msgid "Dis aptent malesuada dictum dui tempus vivamus maecenas est nostra ad fames nascetur"
+msgstr ""
+
+#: ../patterns/faq.php:62
+msgid "Dis aptent malesuada dictum dui tempus"
+msgstr ""
+
+#: ../patterns/footer.php:14
+msgid "Let Our Experts handle the numbers - so you can focus on your growth"
+msgstr ""
+
+#: ../patterns/footer.php:28
+msgid "Quisque dis consequat velit cubilia at primis semper<br>pede metus lectus pretium tempor tristique"
+msgstr ""
+
+#: ../patterns/footer.php:28
+msgid "orci iaculis conubia blandit efficitur vel et"
+msgstr ""
+
+#: ../patterns/footer.php:28
+msgid "sit tellus neque integer lorem"
+msgstr ""
+
+#: ../patterns/footer.php:35
+msgid "Pages"
+msgstr ""
+
+#: ../patterns/footer.php:43
+msgid "Address"
+msgstr ""
+
+#: ../patterns/footer.php:48
+msgid "304 Oakwood Ave"
+msgstr ""
+
+#: ../patterns/footer.php:52
+msgid "+25-1102-2533"
+msgstr ""
+
+#: ../patterns/footer.php:56
+msgid "Example@example.com"
+msgstr ""
+
+#: ../patterns/footer.php:67
+msgid "Designed with"
+msgstr ""
+
+#: ../patterns/footer.php:67
+msgid "WordPress"
+msgstr ""
+
+#: ../patterns/footer.php:71
+msgid "Developed By"
+msgstr ""
+
+#: ../patterns/footer.php:71
+msgid "Themegrove.com"
+msgstr ""
+
+#: ../patterns/how-it-works.php:15
+msgid "How It Works"
+msgstr ""
+
+#: ../patterns/how-it-works.php:20
+msgid "Simple Steps to complex tax matters"
+msgstr ""
+
+#: ../patterns/how-it-works.php:29
+msgid "Initial Constitution"
+msgstr ""
+
+#: ../patterns/how-it-works.php:38, ../patterns/how-it-works.php:55, ../patterns/how-it-works.php:71, ../patterns/how-it-works.php:87, ../patterns/how-it-works.php:103, ../patterns/how-it-works.php:119
+msgid "Feugiat amet rutrum fringilla lectus risus sociosqu nascetur taciti pulvinar mattis"
+msgstr ""
+
+#: ../patterns/how-it-works.php:46
+msgid "Send Documents"
+msgstr ""
+
+#: ../patterns/how-it-works.php:62
+msgid "Process Handle"
+msgstr ""
+
+#: ../patterns/how-it-works.php:78
+msgid "Ongoing Support"
+msgstr ""
+
+#: ../patterns/how-it-works.php:94
+msgid "Expert Consult"
+msgstr ""
+
+#: ../patterns/how-it-works.php:110
+msgid "Verification"
+msgstr ""
+
+#: ../patterns/post.php:10
+msgid "Blog"
+msgstr ""
+
+#: ../patterns/services.php:14
+msgid "Our Services"
+msgstr ""
+
+#: ../patterns/services.php:18
+msgid "End to end tax solutions tailored for individual and business"
+msgstr ""
+
+#: ../patterns/services.php:28, ../patterns/why-choose-us.php:150
+msgid "95% of our clients"
+msgstr ""
+
+#: ../patterns/services.php:28, ../patterns/why-choose-us.php:150
+msgid "saw improved tax efficiency"
+msgstr ""
+
+#: ../patterns/services.php:34
+msgid "Schedule a Call"
+msgstr ""
+
+#: ../patterns/services.php:44
+msgid "01"
+msgstr ""
+
+#: ../patterns/services.php:53
+msgid "Tax Collection"
+msgstr ""
+
+#: ../patterns/services.php:57
+msgid "Auctor aliquam vitae sociosqu metus letius fames efficitur ut. Porta dapibus congue felis vitae suscipit ut feugiat euismod. Adipiscing ridiculus mi sapien sed fermentum ad aenean. Habitant tempor torquent mattis sollicitudin at sapien."
+msgstr ""
+
+#: ../patterns/services.php:62
+msgid "Lacus netus conubia vel"
+msgstr ""
+
+#: ../patterns/services.php:66
+msgid "Aliquam venenatis conubia mauris"
+msgstr ""
+
+#: ../patterns/services.php:70
+msgid "Hac si lacinia lectus"
+msgstr ""
+
+#: ../patterns/services.php:74
+msgid "Potenti tristique facilisi dignissim"
+msgstr ""
+
+#: ../patterns/sidebar.php:11
+msgid "Search"
+msgstr ""
+
+#: ../patterns/sidebar.php:19
+msgid "Latest Posts"
+msgstr ""
+
+#: ../patterns/sidebar.php:27
+msgid "Categories"
+msgstr ""
+
+#: ../patterns/sidebar.php:35
+msgid "Tags"
+msgstr ""
+
+#: ../patterns/single-product.php:10
+msgid "Single Product"
+msgstr ""
+
+#: ../patterns/single-product.php:58
+msgid "Related Products"
+msgstr ""
+
+#: ../patterns/team.php:15
+msgid "Team"
+msgstr ""
+
+#: ../patterns/team.php:20
+msgid "Let's Meet Our attorney"
+msgstr ""
+
+#: ../patterns/team.php:34
+msgid "William Doe"
+msgstr ""
+
+#: ../patterns/team.php:38
+msgid "CTO"
+msgstr ""
+
+#: ../patterns/team.php:52
+msgid "Sarah Will"
+msgstr ""
+
+#: ../patterns/team.php:56
+msgid "Project Manager"
+msgstr ""
+
+#: ../patterns/team.php:70
+msgid "Samantha Dorris"
+msgstr ""
+
+#: ../patterns/team.php:74
+msgid "Designer"
+msgstr ""
+
+#: ../patterns/testimonials.php:14
+msgid "Testimonials"
+msgstr ""
+
+#: ../patterns/testimonials.php:18
+msgid "Real Stories from business and individuals we've helped"
+msgstr ""
+
+#: ../patterns/testimonials.php:31
+msgid "Potenti iaculis sem quis pulvinar pharetra duis consectetuer orci vivamus porttitor id vitae congue class ultrices tempus neque lacinia acnusd"
+msgstr ""
+
+#: ../patterns/testimonials.php:35
+msgid "Sarah Doe"
+msgstr ""
+
+#: ../patterns/why-choose-us.php:16
+msgid "Why Choose Us"
+msgstr ""
+
+#: ../patterns/why-choose-us.php:20
+msgid "The smart choice for step free tax solutions"
+msgstr ""
+
+#: ../patterns/why-choose-us.php:37
+msgid "Certified Tax Professionals"
+msgstr ""
+
+#: ../patterns/why-choose-us.php:42, ../patterns/why-choose-us.php:98, ../patterns/why-choose-us.php:144
+msgid "Facilisis eros metus enim placerat aliquam dictum tellus per congue ex habitant vitae nunc aenean malesuada habitasse"
+msgstr ""
+
+#: ../patterns/why-choose-us.php:68
+msgid "Meet Our Experts"
+msgstr ""
+
+#: ../patterns/why-choose-us.php:93
+msgid "Proven Track Records"
+msgstr ""
+
+#: ../patterns/why-choose-us.php:104
+msgid "Over 500+"
+msgstr ""
+
+#: ../patterns/why-choose-us.php:104
+msgid "clients served"
+msgstr ""
+
+#: ../patterns/why-choose-us.php:111, ../patterns/why-choose-us.php:157
+msgid "Client Satisfaction"
+msgstr ""
+
+#: ../patterns/why-choose-us.php:139
+msgid "Tailored Tax Strategies"
+msgstr ""
