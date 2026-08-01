@@ -1,19 +1,39 @@
 /*
-Theme Name: Pixel Grove Dark
+Theme Name: Pixel Grove Dark - Modified
 Theme URI: https://themegrove.com/products/pixel-grove/
-Author: Themegrove
-Author URI: https://themegrove.com/
-Description: Pixel Grove Dark is a modern WordPress Full Site Editing theme built for businesses, consulting firms, and SEO agencies that want a high-performing online presence. It combines powerful SEO optimization with native Gutenberg and WooCommerce compatibility, allowing you to build fast, flexible, block-based layouts with ease. Designed for scalability and user engagement, Pixel Grove Dark integrates smoothly with Contact Form 7, giving you the tools to showcase services, convert visitors, communicate with clients, and grow your brand. Experience the perfect balance of design, performance, and adaptability with Pixel Grove Dark, your streamlined gateway to digital success. Demo: https://demos.themegrove.com/pixel-grove-dark/
+Author: Mirko
+Description: Modified Pixel Grove Dark
 Template: pixel-grove
 Requires at least: 6.0
 Tested up to: 6.9
 Requires PHP: 7.0
-Version: 1.1
+Version: 400.00
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
-Text Domain: pixel-grove-dark
+Text Domain: pixel-grove-dark-modified
 Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments, translation-ready, wide-blocks, block-styles, blog, portfolio, news
 */
+
+* {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.wpforms-container .wpforms-field-label,
+.wpforms-container .wpforms-selected-value {
+  color: antiquewhite !important;
+}
+
+.wpforms-container .wpforms-field-number-slider-hint,
+.wpforms-container .wpforms-field-number-slider-hint b,
+.wpforms-container .wpforms-field-sublabel {
+  color: lightgray !important;
+}
+
+div .wpforms-container .wpforms-required-label {
+  color: red !important;
+}
+
+
 
 .wp-block-search__button {
   border-top-left-radius: 0;
